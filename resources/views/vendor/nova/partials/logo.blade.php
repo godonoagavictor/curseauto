@@ -1,0 +1,1 @@
+<img style="height: 39px" src="{{asset('assets/frontend/img/global/logo.png')}}" alt="Logo">
